@@ -27,6 +27,10 @@
 		{"id":"streamer-pink", 		"name":"Streamer (Pink Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
 		{"id":"streamer-green", 	"name":"Streamer (Green Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
 		{"id":"streamer-red", 		"name":"Streamer (Red Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
-		{"id":"streamer-blue", 		"name":"Streamer (Blue Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"}
+		{"id":"streamer-blue", 		"name":"Streamer (Blue Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
+
+		{"id":"xbone-new-mask", 		"name":"MASK Xbox One NEW", 	"file":"theme-xbone-new-mask.html", 	"mastercss":"theme-xbone-new-mask.css"},
+		{"id":"xbone-mask", 		"name":"MASK Xbox One", 	"file":"theme-xbone-mask.html", 	"mastercss":"theme-xbone-mask.css"},
+		{"id":"streamer-mask", 		"name":"MASK Streamer", 	"file":"theme-streamer-mask.html", 	"mastercss":"theme-streamer-mask.css"}
 	]
 }

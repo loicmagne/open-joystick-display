@@ -46,6 +46,13 @@
         {"id":"streamer-pink", "name":"Streamer Joycon (Pink Active)", "file":"theme-streamer.html", "cssroot":"css/streamer/", "mastercss":"theme-streamer.css"},
         {"id":"streamer-green", "name":"Streamer Joycon (Green Active)", "file":"theme-streamer.html", "cssroot":"css/streamer/", "mastercss":"theme-streamer.css"},
         {"id":"streamer-red", "name":"Streamer Joycon (Red Active)", "file":"theme-streamer.html", "cssroot":"css/streamer/", "mastercss":"theme-streamer.css"},
-        {"id":"streamer-blue", "name":"Streamer Joycon (Blue Active)", "file":"theme-streamer.html", "cssroot":"css/streamer/", "mastercss":"theme-streamer.css"}
+        {"id":"streamer-blue", "name":"Streamer Joycon (Blue Active)", "file":"theme-streamer.html", "cssroot":"css/streamer/", "mastercss":"theme-streamer.css"},
+
+        {"id":"pro-gray",  "name":"MASK Switch Pro Controller", "file":"theme-mask.html", "mastercss":"theme-mask.css"},
+        {"id":"joycons-gray", "name":"MASK Switch Joycons (Gray)", "file":"theme-joycons-gray-mask.html", "mastercss":"css/joycons/theme-joycon-mask.css"},
+        {"id":"gamecube-purple", "name":"MASK PowerA Gamecube Purple", "file":"theme-gamecube-mask.html", "mastercss":"css/gamecube/theme-gamecube-mask.css"},
+        {"id":"pokkendx", "name":"MASK HORI Pokkén Tournament DX", "file":"theme-pokkendx-mask.html", "mastercss":"css/pokken/theme-pokkendx-mask.css"},
+        {"id":"streamer-pro-white", "name":"MASK Streamer Pro (White Active)", "file":"theme-pro-streamer-mask.html", "mastercss":"css/streamer/theme-pro-streamer-mask.css"},
+        {"id":"streamer-white", "name":"MASK Streamer Joycon (White Active)", "file":"theme-streamer-mask.html", "mastercss":"css/streamer/theme-streamer-mask.css"}
     ]
 }

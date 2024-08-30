@@ -1,0 +1,23 @@
+.theme {
+	position:relative;
+	top:0px;
+	left:0px;
+	width:500px;
+	height:125px;
+}
+.snes-button.active{
+	fill:rgb(255, 0, 0) !important;
+}
+
+.snes-label.active{
+	fill:red !important;
+}
+.snes-label.active *{
+	fill:red !important;
+}
+.snes-label-contrast.active{
+	fill:red !important;
+}
+.snes-label-contrast.active *{
+	fill:rgb(255, 0, 0) !important;
+}

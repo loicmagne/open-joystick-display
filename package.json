@@ -20,9 +20,6 @@
     "linux": {
       "icon": "./app/icons/icon.png",
       "target": [
-          {"target":"tar.gz"},
-          {"target":"deb"},
-          {"target":"AppImage"}
       ],
       "category": "Multimedia"
     },

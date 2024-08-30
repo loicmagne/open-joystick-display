@@ -22,6 +22,10 @@
 		{"id":"streamer-digital-pink", 		"name":"Streamer Digital (Pink Active)", 	"file":"theme-streamer-digital.html", 	"mastercss":"theme-streamer-digital.css"},
 		{"id":"streamer-digital-green", 		"name":"Streamer Digital (Green Active)", 	"file":"theme-streamer-digital.html", 	"mastercss":"theme-streamer-digital.css"},
 		{"id":"streamer-digital-red", 		"name":"Streamer Digital (Red Active)", 		"file":"theme-streamer-digital.html", 	"mastercss":"theme-streamer-digital.css"},
-		{"id":"streamer-digital-blue", 		"name":"Streamer Digital (Blue Active)", 	"file":"theme-streamer-digital.html", 	"mastercss":"theme-streamer-digital.css"}
+		{"id":"streamer-digital-blue", 		"name":"Streamer Digital (Blue Active)", 	"file":"theme-streamer-digital.html", 	"mastercss":"theme-streamer-digital.css"},
+
+		{"id":"mask-analog-black", 	"name":"MASK Analog Black", 	"file":"theme-analog-black-mask.html", 	"mastercss":"theme-analog-black-mask.css"},
+		{"id":"mask-digital-gray", 	"name":"MASK Digital Gray", 	"file":"theme-digital-gray-mask.html", 	"mastercss":"theme-digital-gray-mask.css"},
+		{"id":"mask-streamer-analog-white", 		"name":"MASK Streamer Analog (White Active)", 	"file":"theme-streamer-analog-mask.html", 	"mastercss":"theme-streamer-analog-mask.css"}
 	]
 }

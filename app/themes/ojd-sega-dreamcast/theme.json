@@ -15,6 +15,9 @@
 		{"id":"streamer-pink", 		"name":"Streamer (Pink Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
 		{"id":"streamer-green", 	"name":"Streamer (Green Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
 		{"id":"streamer-red", 		"name":"Streamer (Red Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
-		{"id":"streamer-blue", 		"name":"Streamer (Blue Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"}
+		{"id":"streamer-blue", 		"name":"Streamer (Blue Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
+
+		{"id":"mask-streamer", 		"name":"MASK Streamer (Blue Active)", 	"file":"theme-streamer-mask.html", 	"mastercss":"theme-streamer-mask.css"},
+		{"id":"mask-dreamcast-black", "name":"MASK Black Controller", "file":"theme-mask.html", 	"mastercss":"theme-mask.css"}
 	]
 }

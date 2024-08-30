@@ -16,6 +16,9 @@
 		{"id":"streamer-green", 		"name":"Streamer (Green Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
 		{"id":"streamer-red", 			"name":"Streamer (Red Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
 		{"id":"streamer-blue", 			"name":"Streamer (Blue Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
-		{"id":"analog-kirby", 			"file":"theme-analog-kirby.html", 	"name":"Analog Controller (Kirby)"}
+		{"id":"analog-kirby", 			"file":"theme-analog-kirby.html", 	"name":"Analog Controller (Kirby)"},
+		{"id":"mask-analog-black", "name": "MASK Analog Controller (Black)", "file":"theme-mask.html", "mastercss":"theme-mask.css"},
+		{"id":"mask-streamer-white", 		"name":"MASK Streamer (White Active)", 	"file":"theme-streamer-mask.html", 	"mastercss":"theme-streamer-mask.css"},
+		{"id":"mask-analog-kirby", 		"name":"MASK Analog Controller (Kirby)", 	"file":"theme-analog-kirby-mask.html", 	"mastercss":"theme-analog-kirby-mask.css"}
 	]
 }

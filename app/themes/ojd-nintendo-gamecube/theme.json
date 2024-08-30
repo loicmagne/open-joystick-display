@@ -25,6 +25,10 @@
 		{"id":"streamer-pink", 		"name":"Streamer (Pink Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
 		{"id":"streamer-green", 	"name":"Streamer (Green Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
 		{"id":"streamer-red", 		"name":"Streamer (Red Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
-		{"id":"streamer-blue", 		"name":"Streamer (Blue Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"}
+		{"id":"streamer-blue", 		"name":"Streamer (Blue Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
+
+		{"id":"streamer-mask", 	"name":"MASK Streamer (White Active)", 	"file":"theme-streamer-mask.html", 	"mastercss":"theme-streamer-mask.css"},
+        {"id":"black-new-mask",  "name":"MASK Gamecube normal",     "file":"theme-gamecube-black-mask.html",   "mastercss":"theme-gamecube-black-mask.css"},
+        {"id":"black-mask",  "name":"MASK Gamecube Flat",     "file":"theme-mask.html",   "mastercss":"theme-mask.css"}
 	]
 }

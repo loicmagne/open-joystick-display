@@ -15,6 +15,10 @@
 		{"id":"streamer-pink", 		"name":"Streamer (Pink Active)", 	"file":"theme-streamer.html", 		"mastercss":"theme-streamer.css"},
 		{"id":"streamer-green", 	"name":"Streamer (Green Active)", 	"file":"theme-streamer.html", 		"mastercss":"theme-streamer.css"},
 		{"id":"streamer-red", 		"name":"Streamer (Red Active)", 	"file":"theme-streamer.html", 		"mastercss":"theme-streamer.css"},
-		{"id":"streamer-blue", 		"name":"Streamer (Blue Active)", 	"file":"theme-streamer.html", 		"mastercss":"theme-streamer.css"}
+		{"id":"streamer-blue", 		"name":"Streamer (Blue Active)", 	"file":"theme-streamer.html", 		"mastercss":"theme-streamer.css"},
+
+		{"id":"mask_snes", 				"name":"MASK SNES", 						"file":"theme-snes-mask.html", 			"mastercss":"theme-snes-mask.css"},
+		{"id":"mask_sfc", 				"name":"MASK Super Famicom", 			"file":"theme-sfc-mask.html", 			"mastercss":"theme-sfc-mask.css"},
+		{"id":"mask_streamer-white", 	"name":"MASK Streamer (White Active)", 	"file":"theme-streamer-mask.html", 		"mastercss":"theme-streamer-mask.css"}
 	]
 }

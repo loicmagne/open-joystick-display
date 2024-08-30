@@ -15,6 +15,10 @@
 		{"id":"streamer-pink", 		"name":"Streamer (Pink Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
 		{"id":"streamer-green", 	"name":"Streamer (Green Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
 		{"id":"streamer-red", 		"name":"Streamer (Red Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
-		{"id":"streamer-blue", 		"name":"Streamer (Blue Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"}
+		{"id":"streamer-blue", 		"name":"Streamer (Blue Active)", 	"file":"theme-streamer.html", 	"mastercss":"theme-streamer.css"},
+
+		{"id":"mask-three", 		"name":"MASK Three Button", 				"file":"theme-three-mask.html", 		"mastercss":"theme-three-mask.css"},
+		{"id":"mask-six", 		"name":"MASK Six Button", 				"file":"theme-six-mask.html", 		"mastercss":"theme-six-mask.css"},
+		{"id":"mask-streamer-white", 	"name":"MASK Streamer (White Active)", 	"file":"theme-streamer-mask.html", 	"mastercss":"theme-streamer-mask.css"}
 	]
 }
